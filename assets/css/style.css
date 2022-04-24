@@ -97,6 +97,10 @@ p {
     color: #ffffff;
 }
 
+#online-reputation-management img {
+    float: right;
+}
+
 #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
