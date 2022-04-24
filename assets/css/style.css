@@ -99,6 +99,9 @@ p {
 
 #online-reputation-management img {
     float: right;
+    margin-right: 0;
+    margin-left: 25px;
+    max-height: 200px;
 }
 
 #social-media-marketing {
