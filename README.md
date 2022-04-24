@@ -6,83 +6,31 @@ Clone this repository and you can host this website from your web server. Clone 
 ```git clone https://github.com/hbodang/code-refactor.git```
 
 ## Usage
+A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more. The refactored website is meant to visually resemble the website provided, as shown here:
+![Horiseon Website Mockup](./assets/images/01-html-css-git-homework-demo.png)
 
+## Contributing
+This project is not meant to be open-source or collaborative, but pull requests are welcome.
 
+## License
+MIT License
 
+Copyright (c) [2022] [Haley Bodhaine]
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-# User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-# Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-
-# Mock-Up
-The following image shows the web application's appearance and functionality:
-
-A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.
-
-# How to Complete the Challenge
-Follow these steps to complete the challenge:
-
-Clone your starter code (Links to an external site.).
-
-Refactor the code to meet the Acceptance Criteria.
-
-Make sure your work meets the full list of grading requirements.
-
-Follow the instructions to submit your Challenge for review.
-
-
-# This challenge is graded based on the following criteria:
-
-## Technical Acceptance Criteria: 40%
-Satisfies all of the preceding acceptance criteria plus the following code improvements:
-
-Application's links all function correctly.
-
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-Application's CSS file is properly commented.
-
-## Deployment: 32%
-Application deployed at live URL.
-
-Application loads with no errors.
-
-Application GitHub URL submitted.
-
-GitHub repository that contains application code.
-
-## Application Quality: 15%
-Application resembles (at least 90%) screenshots provided in challenge instructions.
-
-## Repository Quality: 13%
-Repository has a unique name.
-
-Repository follows best practices for file structure and naming conventions.
-
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-Repository contains multiple descriptive commit messages.
-
-Repository contains quality README file with description, screenshot, and link to deployed application.
-
-# How to Submit the Challenge
-You are required to submit BOTH of the following for review:
-
-The URL of the deployed application.
-
-The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
