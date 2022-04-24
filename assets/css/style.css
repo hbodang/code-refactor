@@ -1,13 +1,16 @@
+/*Universal Selector: all applicable elements*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*Applies to everything within the <body> tags*/
 body {
     background-color: #d9dcd6;
 }
 
+/*Header section styling*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +23,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -32,11 +35,8 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
-
 header nav ul li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
@@ -46,6 +46,7 @@ a {
     text-decoration: none;
 }
 
+/*Hero Section styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +56,7 @@ a {
     background-position: center;
 }
 
+/*Content section of website styling*/
 .content {
     width: 75%;
     display: inline-block;
@@ -76,6 +78,7 @@ p {
     font-size: 16px;
 }
 
+/*Styling for each of the articles within the content section*/
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -103,6 +106,7 @@ p {
     color: #ffffff;
 }
 
+/*Benefits section styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -130,6 +134,7 @@ p {
     max-width: 150px;
 }
 
+/*Footer styling*/
 footer {
     padding: 30px;
     clear: both;
