@@ -6,7 +6,9 @@ Clone this repository and you can host this website from your web server. Clone 
 ```git clone https://github.com/hbodang/code-refactor.git```
 
 ## Usage
-A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more. The refactored website is meant to visually resemble the website provided, as shown here:
+A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more. Here is a link to the deployed application: https://github.com/hbodang/code-refactor
+
+The refactored website is meant to visually resemble the website provided, as shown here:
 ![Horiseon Website Mockup](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Contributing
